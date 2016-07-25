@@ -198,7 +198,7 @@
 						<div aria-hidden="true" class="modal fade" id="nodeinfo" role="dialog" tabindex="-1">
 							<div class="modal-dialog modal-full">
 								<div class="modal-content">
-									<iframe class="iframe-seamless" src="https://www.zhaoj.in" title="Modal with iFrame" id="infoifram"></iframe>
+									<iframe class="iframe-seamless" src="about:blank" title="Modal with iFrame" id="infoifram"></iframe>
 								</div>
 							</div>
 						</div>
