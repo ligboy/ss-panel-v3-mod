@@ -57,10 +57,10 @@
 								<div class="card-main">
 									<div class="card-inner margin-bottom-no">
 										<p class="card-heading">客户端下载</p>
-										<p><a href="https://bit.no.com:43110/shadowsocksr.bit"><i class="icon icon-lg">desktop_windows</i>&nbsp;Windows</a> 选择 C# 版</p>
+										<p><a href="https://pan.baidu.com/s/1gdD24Cj"><i class="icon icon-lg">desktop_windows</i>&nbsp;Windows</a> 选择 C# 版</p>
 										<p><a href="https://github.com/qinyuhang/ShadowsocksX-NG/releases"><i class="icon icon-lg">laptop_mac</i>&nbsp;Mac OS X</a></p>
 										<p><a href="https://github.com/breakwa11/shadowsocks-rss/wiki/Python-client"><i class="icon icon-lg">laptop_windows</i>&nbsp;Linux</a></p>
-										<p><a href="https://bit.no.com:43110/shadowsocksr.bit"><i class="icon icon-lg">android</i>&nbsp;Android</a> 选择 Android 版</p>
+										<p><a href="https://pan.baidu.com/s/1gdD24Cj"><i class="icon icon-lg">android</i>&nbsp;Android</a> 选择 Android 版</p>
 										<p><a href="https://itunes.apple.com/us/app/shadowrocket/id932747118"><i class="icon icon-lg">phone_iphone</i>&nbsp;iOS</a></p>
 									</div>
 									
